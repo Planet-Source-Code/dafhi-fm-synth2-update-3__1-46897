@@ -1,0 +1,10 @@
+Run exe or vb (and F5) to start synth.
+Play computer keyboard like a piano.
+
+You can adjust the controls with the mouse.
+Hold Shift while adjusting to reduce the increment.
+
+Spacebar stops all notes.
+
++ - keys adjust polyphony.
+
